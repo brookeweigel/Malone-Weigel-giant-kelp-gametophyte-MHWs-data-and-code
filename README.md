@@ -1,4 +1,4 @@
-# Microscopic life stages of giant kelp: gametophyte growth rate data and R code
+# Gametophyte growth rate data and R code
 
 Gametophyte growth rate data and R code associated with the publication "Impacts of marine heatwave duration and intensity on microscopic life stages of giant kelp (Macrocystis pyrifera)," by Zulie A. Malone and Brooke L. Weigel.
 
